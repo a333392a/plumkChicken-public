@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfirst_plumchicken"]=self["webpackChunkfirst_plumchicken"]||[]).push([[594],{603:function(n,u,t){t.r(u),t.d(u,{default:function(){return h}});var c=t(641);const e={class:"about"},r=(0,c.Lk)("h1",null,"This is an about page",-1),s=[r];function a(n,u){return(0,c.uX)(),(0,c.CE)("div",e,s)}var i=t(262);const f={},l=(0,i.A)(f,[["render",a]]);var h=l}}]);
+//# sourceMappingURL=about.9701aeab.js.map
